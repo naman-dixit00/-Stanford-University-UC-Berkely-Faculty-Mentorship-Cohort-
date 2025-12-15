@@ -3,7 +3,7 @@ In faculty mentorship session -
 Two of  upcoming faculty coming to work with students are : 
 * Stanford Faculty Member and Former President of Oracle : Dr. Timothy Chu  
 * Executive Director Berkeley  Entrepreneurship Hub :  Dawn McGee
-
+* Selected From 6320 participants for this mentorship cohort .
 <p align="center">
   <a href="https://media.licdn.com/dms/image/v2/D4E3DAQFMwNLS6vkkNw/image-scale_191_1128/image-scale_191_1128/0/1678396555746/stanford_code_in_place_cover?e=2147483647&v=beta&t=MeLC_mij1esP44G5dWB4cYuuCQP55vNsNUeuMJw7uGA">
     <img 
