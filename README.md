@@ -9,7 +9,7 @@ Two of  upcoming faculty coming to work with students are :
     <img 
       src="https://github.com/naman-dixit00/-Stanford-University-UC-Berkely-Faculty-Mentorship-Cohort-/blob/main/Lydia%20Yaiser%20Stanford%20Virtual%20Mentorship%20%20-%20Selection%20Mail.png" 
       alt="Logo" 
-      style="width:100%; height:500px; object-fit:cover; border-radius:10px;"
+      style="width:100%; height:400px; object-fit:cover; border-radius:10px;"
     >
   </a>
   <h3 align="center"></h3>  
